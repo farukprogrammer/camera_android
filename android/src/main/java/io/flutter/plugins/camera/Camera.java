@@ -1143,12 +1143,18 @@ class Camera
 
           @Override
           public void onCancel(Object o) {
+            if (imageStreamReader == null) {
+              return;
+            }
             imageStreamReader.setOnImageAvailableListener(null, backgroundHandler);
           }
         });
   }
 
   private void setImageStreamImageAvailableListener(final EventChannel.EventSink imageStreamSink) {
+    if (imageStreamReader == null) {
+      return;
+    }
     imageStreamReader.setOnImageAvailableListener(
         reader -> {
           Image img = reader.acquireNextImage();

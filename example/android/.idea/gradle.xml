@@ -19,9 +19,9 @@
             <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/video_player_android-2.3.10/android" />
             <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/video_player_avfoundation-2.3.8/android" />
             <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/video_player_web-2.0.13/android" />
-            <option value="$PROJECT_DIR$/../../android" />
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/../../../plugins/packages/camera/camera_android/android" />
             <option value="$USER_HOME$/fvm/versions/3.3.9/packages/integration_test/android" />
           </set>
         </option>
