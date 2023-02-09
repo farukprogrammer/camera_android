@@ -1,5 +1,5 @@
 # This is a generated file; do not edit or check into version control.
-camera_android=/Users/muhammad.rahman/GoTo/plugins/packages/camera/camera_android/
+camera_android=/Users/muhammad.rahman/GoTo/camera_android/
 flutter_plugin_android_lifecycle=/Users/muhammad.rahman/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.7/
 integration_test=/Users/muhammad.rahman/fvm/versions/3.3.9/packages/integration_test/
 path_provider=/Users/muhammad.rahman/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.11/
