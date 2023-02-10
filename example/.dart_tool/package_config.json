@@ -195,7 +195,7 @@
     },
     {
       "name": "flutter_plugin_android_lifecycle",
-      "rootUri": "file:///Users/muhammad.rahman/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.7",
+      "rootUri": "file:///Users/muhammad.rahman/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -566,7 +566,7 @@
       "languageVersion": "2.14"
     }
   ],
-  "generated": "2023-02-09T23:09:23.211222Z",
+  "generated": "2023-02-10T01:33:48.917406Z",
   "generator": "pub",
   "generatorVersion": "2.18.5"
 }
